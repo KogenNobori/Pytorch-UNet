@@ -9,5 +9,6 @@ venv/
 wandb/
 unet_submit
 test_submit
+machine.*
+test_*
 slurm*
-machine*
