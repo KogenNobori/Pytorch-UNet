@@ -8,3 +8,6 @@ venv/
 .idea/
 wandb/
 unet_submit
+test_submit
+slurm*
+machine*
