@@ -12,6 +12,5 @@ test_submit
 machine.*
 test_images/*
 test_outputs/*
-slurm*
 noisy_images/*
 test_masks/*
