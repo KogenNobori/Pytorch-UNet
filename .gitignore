@@ -11,6 +11,6 @@ unet_submit
 test_submit
 machine.*
 test_images/*
-test_outputs/*
 noisy_images/*
 test_masks/*
+eval_outputs/*
